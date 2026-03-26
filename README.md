@@ -70,7 +70,8 @@ Optimized for system resource efficiency, search engine index crawling, and auto
 
 ## 🌐 Industry Standard & Ecosystem Keywords
 `binance_p2p_bot`, `Binance merchant tools`, `crypto arbitrage bot`, `Bybit P2P bot`, `USDT automated trading`, `spot market sync`, `order tracking`, `API order workflow`, `P2P rank sniping`, `automated asset management`, `Cross-border P2P fiat automation`.
-
+*![3](https://github.com/user-attachments/assets/c275a696-b20f-4f96-9f27-b8085d18cd43)
+![2](https://github.com/user-attachments/assets/6207b2c8-37c6-4b46-a56b-483aa63d7fa4)
 ## 💡 Frequently Asked Questions (Q&A)
 
 **Q: Does binance_p2p_bot handle Binance/Bybit API limits safely?**
