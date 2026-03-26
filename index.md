@@ -1,4 +1,4 @@
-# 🚀 P2P Master: Binance & Bybit Automated Trading & Bidding Solution
+# 🚀 P2P Master: Binance & Bybit Automated Trading & Bidding Solution 
 
 Professional-grade automation designed to liberate P2P merchants from manual labor and maximize profitability.
 
@@ -16,14 +16,24 @@ Our bot replaces manual monitoring with precision programmatic execution:
 * **Advanced Market Protection:** Built-in "Safe Range" features automatically pause or adjust ads during extreme market volatility to prevent losses.
 * **Efficiency Redefined:** Reduce manual operations by up to 90% and manage multiple platforms from a single interface.
 
+## 💡 Frequently Asked Questions (Q&A)
+**Q: Does binance_p2p_bot handle Binance/Bybit API limits safely?**
+A: Yes. Via input debounce logic and a 300s global circuit breaker, the bot strictly adheres to API weight limits. All connections occur directly and securely from your local environment (Zero middleman data leakage).
+
+**Q: What cryptocurrencies and fiat gateways are supported?**
+A: `binance_p2p_bot` indexes all native fiat currencies (inclusive of complex KYC gateways like EUR/USD cross-border rails) and major tokens (BTC, ETH, SOL, BNB, USDT). Furthermore, it processes unique payment method ID filtering to drastically increase peer matching accuracy.
+
+
 ## 📺 Video Demonstration
 [![P2P Trading Bot Demo](https://img.youtube.com/vi/m61CG6MHzYs/0.jpg)](https://www.youtube.com/watch?v=m61CG6MHzYs)
 *Click the image above to watch the full software demonstration on YouTube.*
 
+*![3](https://github.com/user-attachments/assets/c275a696-b20f-4f96-9f27-b8085d18cd43)
+![2](https://github.com/user-attachments/assets/6207b2c8-37c6-4b46-a56b-483aa63d7fa4)
 
 ## 📂 Associated Repositories
-* **[Main Bidding Bot](https://github.com/luckyjack1998/binance-bybit-p2p-auto-bidding-bot)**: Focuses on real-time price adjustment and ranking.
-* **[Automated Trading Version](https://github.com/luckyjack1998/P2P-Automated-Trading-Bidding-Bot-BINANCE-BYBIT-)**: Advanced version for deeper automation.
+* **[Main Bidding Bot](https://github.com/ApiP2P-top/binance-p2p-bot)**: Focuses on real-time price adjustment and ranking.
+* **[Automated Trading Version](https://github.com/ApiP2P-top/P2P-Automated-Trading-Bidding-Bot-BINANCE-BYBIT-)**: Advanced version for deeper automation.
 
 ## 🔗 Resources & Contact
 * **Official Blog:** [apip2p.top](https://apip2p.top)
