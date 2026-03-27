@@ -1,3 +1,11 @@
+<div align="center">
+
+**🌐 Select Language / 选择语言**
+
+[English](README.md) | [中文](多语种目录/README_CN.md) | [Español](多语种目录/README_ES.md) | [Русский](多语种目录/README_RU.md) | [Bahasa Indonesia](多语种目录/README_ID.md) | [Türkçe](多语种目录/README_TR.md) | [Tiếng Việt](多语种目录/README_VN.md) | [ภาษาไทย](多语种目录/README_TH.md) | [हिन्दी](多语种目录/README_HI.md) | [اردو](多语种目录/README_UR.md)
+
+</div>
+
 # binance_p2p_bot: Advanced Binance & Bybit Automated P2P Trading Bot
 Automated P2P trading, crypto arbitrage, and auto-bidding bot for Binance and Bybit merchants.
 
@@ -8,7 +16,7 @@ Discover the ultimate automation software customized for P2P merchants. Optimize
 ## 📝 Overview & Architecture
 **binance_p2p_bot** is a professional-grade desktop client engineered specifically for **P2P Merchants (Advertisers)** operating on **Binance** and **Bybit**. By transitioning from manual market monitoring to API-driven programmatic execution, this bot ensures you maintain persistent price advantages and unmatched order processing speed. 
 
-Designed with high-frequency trading (HFT) principles, it resolves manual tracking delays, revenue leakage to arbitrageurs, and the exhausting "screen trap". 
+Built on efficient automated polling and algorithmic execution principles, it resolves manual tracking delays, revenue leakage to arbitrageurs, and the exhausting "screen trap". 
 
 ## 🚀 Core Features (Algorithm & Workflow)
 
@@ -41,7 +49,7 @@ async def snipe_top_position(ad_id, target_merchant, offset_amount=0.01, min_pri
 ```javascript
 // [Pseudocode Example] Auto-Syncing P2P Ads with Spot Prices
 async function runSpotMarketSync(symbol, your_multiplier) {
-    // 1. Fetch nanosecond-precision spot price
+    // 1. Fetch real-time spot price from exchange
     const spotData = await exchange.api.fetchSpotTicker(symbol); // e.g., "BTC/USDT"
     
     // 2. Compute dynamic markup value
@@ -56,12 +64,12 @@ async function runSpotMarketSync(symbol, your_multiplier) {
 * Integrates flawlessly with **Binance** and **Bybit** merchant API backends. 
 * Handles native platform logic intelligently (e.g., dynamically adjusting to Bybit's distinct usable funding threshold constraints).
 
-### 4. Automated Order Workflow & Real-Time Inventory Perception
-* Operates publishing, pausing, and essential order flow transitions automatically.
-* **Deep Inventory Perception:** Scans spot and funding wallet changes. Instantly upon trade completion, the bot catches the updated balances and smoothly synchronizes the "available quantity" across all your active P2P ads.
+### 4. Ad Lifecycle Management & Inventory Monitoring
+* Manages ad publishing, pausing, and status transitions through direct API calls.
+* **Inventory Monitoring:** Through regular API polling, the bot reads your ads' current inventory, min limits, and balance data. When changes are detected, it keeps your ad parameters synchronized, helping maintain accurate available quantities across all active listings.
 
 ## ⚙️ Technical Specifications & Underlying Mechanisms
-Optimized for system resource efficiency, search engine index crawling, and automated proxy environments. The internal thread model utilizes rigorous execution cycles to prevent API bans and maximize throughput:
+Optimized for system resource efficiency and reliable long-running automated execution. The internal thread model utilizes rigorous execution cycles to prevent API bans and maximize throughput:
 
 * **Parallel Ad Polling (3000 ms):** The master engine queries and audits the active ad queue every 3 seconds.
 * **Bidding Network Scanner (2000 ms):** The underlying scanner executes deep queries every 2 seconds to instantly intercept competitor market shifts.
@@ -79,7 +87,7 @@ Optimized for system resource efficiency, search engine index crawling, and auto
 A: Yes. Via input debounce logic and a 300s global circuit breaker, the bot strictly adheres to API weight limits. All connections occur directly and securely from your local environment (Zero middleman data leakage).
 
 **Q: What cryptocurrencies and fiat gateways are supported?**
-A: `binance_p2p_bot` indexes all native fiat currencies (inclusive of complex KYC gateways like EUR/USD cross-border rails) and major tokens (BTC, ETH, SOL, BNB, USDT). Furthermore, it processes unique payment method ID filtering to drastically increase peer matching accuracy.
+A: `binance_p2p_bot` works with all fiat currencies and crypto assets available on Binance and Bybit P2P marketplaces, including major tokens (BTC, ETH, SOL, BNB, USDT, USDC, FDUSD) and diverse fiat gateways. The bot intelligently groups your advertisements by their configured asset, fiat, and trade direction for independent bidding strategies.
 
 ## 🔗 Official Ecosystem & Contact
 * **Official Home & Documentation:** [apip2p.top](https://apip2p.top/) *(Latest updates, high-frequency strategies, and algorithmic trading solutions)*
