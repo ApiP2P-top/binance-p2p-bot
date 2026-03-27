@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="googlef9ef888a91b5597d" />
 # 🚀 P2P Master: Binance & Bybit Automated Trading & Bidding Solution 
 
 Professional-grade automation designed to liberate P2P merchants from manual labor and maximize profitability.
