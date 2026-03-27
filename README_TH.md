@@ -2,7 +2,7 @@
 
 **🌐 Select Language / 选择语言**
 
-[English](../README.md) | [中文](README_CN.md) | [Español](README_ES.md) | [Русский](README_RU.md) | [Bahasa Indonesia](README_ID.md) | [Türkçe](README_TR.md) | [Tiếng Việt](README_VN.md) | **ภาษาไทย** | [हिन्दी](README_HI.md) | [اردو](README_UR.md)
+[English](README.md) | [中文](README_CN.md) | [Español](README_ES.md) | [Русский](README_RU.md) | [Bahasa Indonesia](README_ID.md) | [Türkçe](README_TR.md) | [Tiếng Việt](README_VN.md) | **ภาษาไทย** | [हिन्दी](README_HI.md) | [اردو](README_UR.md)
 
 </div>
 
