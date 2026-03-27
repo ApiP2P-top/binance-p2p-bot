@@ -4,7 +4,8 @@
 
 **🌐 Select Language / 选择语言**
 
-[English](https://apip2p-top.github.io/binance-p2p-bot/) | [中文](https://apip2p-top.github.io/binance-p2p-bot/cn/) | [Español](https://apip2p-top.github.io/binance-p2p-bot/es/) | [Русский](https://apip2p-top.github.io/binance-p2p-bot/ru/) | [Bahasa Indonesia](https://apip2p-top.github.io/binance-p2p-bot/id/) | [Türkçe](https://apip2p-top.github.io/binance-p2p-bot/tr/) | [Tiếng Việt](https://apip2p-top.github.io/binance-p2p-bot/vn/) | [ภาษาไทย](https://apip2p-top.github.io/binance-p2p-bot/th/) | [हिन्दी](https://apip2p-top.github.io/binance-p2p-bot/hi/) | [اردو](https://apip2p-top.github.io/binance-p2p-bot/ur/)
+[English](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README.md) | [中文](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_CN.md) | [Español](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ES.md) | [Русский](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_RU.md) | [Bahasa Indonesia](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ID.md) | [Türkçe](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TR.md) | [Tiếng Việt](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_VN.md) | [ภาษาไทย](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TH.md) | [हिन्दी](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_HI.md) | [اردو](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_UR.md)
+
 
 </div>
 
@@ -252,24 +253,6 @@ A: No. `binance_p2p_bot` features fully automated state persistence. All UI sett
 
 ---
 
-## 🌐 Multi-Language Documentation
-
-This project provides full documentation in 10 languages to serve our global merchant community:
-
-| Language | README | Pages |
-|---|---|---|
-| 🇬🇧 English | [README.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README.md) | [apip2p-top.github.io/binance-p2p-bot/](https://apip2p-top.github.io/binance-p2p-bot/) |
-| 🇨🇳 中文 | [README_CN.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_CN.md) | [apip2p-top.github.io/binance-p2p-bot/cn/](https://apip2p-top.github.io/binance-p2p-bot/cn/) |
-| 🇪🇸 Español | [README_ES.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ES.md) | [apip2p-top.github.io/binance-p2p-bot/es/](https://apip2p-top.github.io/binance-p2p-bot/es/) |
-| 🇷🇺 Русский | [README_RU.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_RU.md) | [apip2p-top.github.io/binance-p2p-bot/ru/](https://apip2p-top.github.io/binance-p2p-bot/ru/) |
-| 🇮🇩 Bahasa Indonesia | [README_ID.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ID.md) | [apip2p-top.github.io/binance-p2p-bot/id/](https://apip2p-top.github.io/binance-p2p-bot/id/) |
-| 🇹🇷 Türkçe | [README_TR.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TR.md) | [apip2p-top.github.io/binance-p2p-bot/tr/](https://apip2p-top.github.io/binance-p2p-bot/tr/) |
-| 🇻🇳 Tiếng Việt | [README_VN.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_VN.md) | [apip2p-top.github.io/binance-p2p-bot/vn/](https://apip2p-top.github.io/binance-p2p-bot/vn/) |
-| 🇹🇭 ภาษาไทย | [README_TH.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TH.md) | [apip2p-top.github.io/binance-p2p-bot/th/](https://apip2p-top.github.io/binance-p2p-bot/th/) |
-| 🇮🇳 हिन्दी | [README_HI.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_HI.md) | [apip2p-top.github.io/binance-p2p-bot/hi/](https://apip2p-top.github.io/binance-p2p-bot/hi/) |
-| 🇵🇰 اردو | [README_UR.md](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_UR.md) | [apip2p-top.github.io/binance-p2p-bot/ur/](https://apip2p-top.github.io/binance-p2p-bot/ur/) |
-
----
 
 ## 📂 Associated Repositories
 * **[Main Bidding Bot](https://github.com/ApiP2P-top/binance-p2p-bot)**: Focuses on real-time price adjustment and ranking — the core `binance_p2p_bot` engine.
