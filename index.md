@@ -1,13 +1,22 @@
 <meta name="google-site-verification" content="googlef9ef888a91b5597d" />
 
+
 <div align="center">
-
-**🌐 Select Language / 选择语言**
-
-[English](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README.md) | [中文](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_CN.md) | [Español](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ES.md) | [Русский](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_RU.md) | [Bahasa Indonesia](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ID.md) | [Türkçe](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TR.md) | [Tiếng Việt](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_VN.md) | [ภาษาไทย](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TH.md) | [हिन्दी](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_HI.md) | [اردو](https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_UR.md)
-
-
+<p><strong>🌐 Select Language / 选择语言</strong></p>
+<p>
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README.md">English</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_CN.md">中文</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ES.md">Español</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_RU.md">Русский</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_ID.md">Bahasa Indonesia</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TR.md">Türkçe</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_VN.md">Tiếng Việt</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_TH.md">ภาษาไทย</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_HI.md">हिन्दी</a> |
+<a href="https://github.com/ApiP2P-top/binance-p2p-bot/blob/main/README_UR.md">اردو</a>
+</p>
 </div>
+
 
 # 🚀 binance_p2p_bot: The #1 Binance & Bybit Automated P2P Trading & Bidding Solution
 
