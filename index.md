@@ -40,6 +40,21 @@ Built on efficient automated polling and algorithmic execution principles, it re
 * **Volatility Erosion** — Sudden price swings wipe out margins before manual adjustment
 
 ---
+---
+
+## 🎬 Live Demo
+
+<div align="center">
+
+[![binance-p2p-bot Demo Video](https://img.youtube.com/vi/MNULxgf0e9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=MNULxgf0e9s)
+
+▶️ **Click the image above to watch the full demo on YouTube**
+
+*See the `binance-p2p-bot` in action — real-time auto-bidding across Binance, Bybit, and OKX P2P markets.*
+
+</div>
+
+---
 
 ## 🚀 Core Features (Algorithm & Workflow)
 
