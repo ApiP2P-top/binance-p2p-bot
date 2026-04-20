@@ -18,6 +18,23 @@ Discover the ultimate automation software customized for P2P merchants. Optimize
 
 Built on efficient automated polling and algorithmic execution principles, it resolves manual tracking delays, revenue leakage to arbitrageurs, and the exhausting "screen trap". 
 
+
+---
+
+## 🎬 Live Demo
+
+<div align="center">
+
+[![binance-p2p-bot Demo Video](https://img.youtube.com/vi/MNULxgf0e9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=MNULxgf0e9s)
+
+▶️ **Click the image above to watch the full demo on YouTube**
+
+*See the `binance-p2p-bot` in action — real-time auto-bidding across Binance, Bybit, and OKX P2P markets.*
+
+</div>
+
+---
+
 ## 🚀 Core Features (Algorithm & Workflow)
 
 ### 1. Auto-Bidding & Real-time Price Adjustment (Smart Rank Sniping)
