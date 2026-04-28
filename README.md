@@ -1,6 +1,6 @@
 <div align="center">
 
-**🌐 Select Language / 选择语言**
+**🌐 Select Language /  选择语言**
 
 [English](README.md) | [中文](README_CN.md) | [Español](README_ES.md) | [Русский](README_RU.md) | [Bahasa Indonesia](README_ID.md) | [Türkçe](README_TR.md) | [Tiếng Việt](README_VN.md) | [ภาษาไทย](README_TH.md) | [हिन्दी](README_HI.md) | [اردو](README_UR.md)
 
@@ -21,7 +21,7 @@ Built on efficient automated polling and algorithmic execution principles, it re
 
 ---
 
-## 🎬 Live Demo
+## 🎬 Live  Demo
 
 <div align="center">
 
